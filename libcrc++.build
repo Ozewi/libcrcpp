@@ -1,0 +1,11 @@
+# Configuration for the 'builder' tool.
+#
+MODULE = libcrc++
+TARGET =
+H_INSTALL_FILES = libcrc++.h
+
+TESTS = test_libcrc++ test_example
+test_libcrc++_dep = testcrc.o
+test_example_dep = example.o
+
+CPPFLAGS := $(CPPFLAGS) -fPIC
