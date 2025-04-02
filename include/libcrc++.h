@@ -4,7 +4,7 @@
  * @author    José Luis Sánchez Arroyo
  * @section   License
  * Copyright (c) 2017 - 2025 José Luis Sánchez Arroyo
- * This software is distributed under the terms of the MIT license and comes WITHOUT ANY WARRANTY.
+ * This software is distributed under the terms of the BSD 3-Clause License and comes WITHOUT ANY WARRANTY.
  * Please read the file LICENSE for further details.
  */
 
